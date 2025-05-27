@@ -1,8 +1,8 @@
 ---
 layout: home
+title: Home
 ---
 
-# Welcome to Pointless.Ventures - Where Every Investment is a Learning Experience™
 The internet's most ruthlessly accurate coverage of Silicon Valley's greatest performance art: venture capital.
 Pointless.Ventures is the 99% AI-powered news platform that delivers surgical precision mockery of the startup ecosystem's most spectacular failures, questionable pivots, and valuation gymnastics. Our machine learning algorithms are trained on thousands of press releases, pitch decks, and LinkedIn humble-brags to identify peak absurdity in real-time.
 ## What We Cover:
