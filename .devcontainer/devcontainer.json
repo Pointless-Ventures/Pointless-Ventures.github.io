@@ -10,19 +10,10 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "shopify.ruby-lsp",
-        "bradlc.vscode-tailwindcss",
         "esbenp.prettier-vscode",
         "ms-vscode.vscode-json",
         "redhat.vscode-yaml"
       ]
-    }
-  },
-  "forwardPorts": [4000],
-  "portsAttributes": {
-    "4000": {
-      "label": "Jekyll Server",
-      "onAutoForward": "notify"
     }
   },
   "postCreateCommand": ".devcontainer/setup.sh",

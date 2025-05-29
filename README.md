@@ -7,12 +7,9 @@ This is a Jekyll-based website using the [Memoirs theme](https://github.com/wowt
 ### GitHub Codespaces (Recommended)
 1. Open this repository in GitHub Codespaces
 2. The setup will automatically install Bundler and all dependencies
-3. Jekyll server will start automatically on port 4000
-4. Access your site at the forwarded port URL
 
 **Quick Start in Codespaces:**
 - Run `./dev.sh` for an enhanced development experience
-- Or use VS Code tasks: `Ctrl/Cmd + Shift + P` → "Tasks: Run Task" → "Jekyll: Serve"
 
 ### Local Development
 1. Install Ruby (version 2.7 or higher)
@@ -22,12 +19,6 @@ This is a Jekyll-based website using the [Memoirs theme](https://github.com/wowt
 5. Visit `http://localhost:4000`
 
 ## Available Commands
-
-### VS Code Tasks (Ctrl/Cmd + Shift + P → "Tasks: Run Task")
-- **Jekyll: Serve** - Start the development server with live reload
-- **Jekyll: Build** - Build the site for production
-- **Bundle: Install** - Install gem dependencies
-- **Bundle: Update** - Update gem dependencies
 
 ### Terminal Commands
 - `./dev.sh` - Enhanced development script with automatic dependency management
