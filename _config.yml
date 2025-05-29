@@ -21,7 +21,7 @@
 title: Pointless.Ventures
 email: contact@pointless.ventures
 description: >- # this means to ignore newlines until "baseurl:"
-  Blah
+  Pointless.Ventures
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pointless.ventures" # the base hostname & protocol for your site, e.g. http://example.com
 
