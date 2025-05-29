@@ -1,0 +1,32 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "*.md": "markdown",
+    "*.markdown": "markdown"
+  },
+  "emmet.includeLanguages": {
+    "markdown": "html"
+  },
+  "markdown.preview.breaks": true,
+  "markdown.preview.linkify": true,
+  "files.exclude": {
+    "_site": true,
+    ".sass-cache": true,
+    ".jekyll-cache": true,
+    ".jekyll-metadata": true,
+    "vendor": true,
+    "Gemfile.lock": false
+  },
+  "search.exclude": {
+    "_site": true,
+    ".sass-cache": true,
+    ".jekyll-cache": true,
+    "vendor": true
+  },
+  "files.watcherExclude": {
+    "**/_site/**": true,
+    "**/.sass-cache/**": true,
+    "**/.jekyll-cache/**": true,
+    "**/vendor/**": true
+  }
+}
